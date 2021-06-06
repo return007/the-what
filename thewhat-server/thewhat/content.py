@@ -4,6 +4,11 @@ I am responsible for generating, storing and randomizing theWHATs
 
 from collections import deque
 
+from thewhat.source import Mixer
+
+
+mixer = Mixer()
+
 
 class WHAT(object):
 
@@ -37,11 +42,11 @@ class WHAT(object):
         """
         Generate and add one theWHAT to the queue
         """
-        pass
+        self.queue.append(mixer.mix())
 
 
 
-theWHAT = WHAT()
+theWHAT = WHAT(5)
 
 def give_one():
     return theWHAT.give_one()
