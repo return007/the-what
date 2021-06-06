@@ -126,6 +126,28 @@ https://www.ocearch.org/tracker/
 http://www.shadyurl.com/
 https://www.mapcrunch.com/
 https://random.earth/
+https://zoomquilt.org/
+http://www.shutupandtakemymoney.com/
+https://apod.nasa.gov/apod/astropix.html
+https://www.internetlivestats.com/
+https://musclewiki.com/
+http://radio.garden/
+https://thisissand.com/
+https://trypap.com/
+https://www.omfgdogs.com/
+http://weavesilk.com/
+https://eyebleach.me/
+http://orteil.dashnet.org/cookieclicker/
+http://orteil.dashnet.org/taskmaster/
+http://orteil.dashnet.org/cookies2cash/
+http://orteil.dashnet.org/experiments/dungeongenerator/
+http://youarelistening.to/
+https://www.rainymood.com/
+http://flashbynight.com/drench/
+https://quickdraw.withgoogle.com/
+https://tastedive.com/
+http://themagicipod.com/
+https://www.incredibox.com/demo/
 '''
 
 

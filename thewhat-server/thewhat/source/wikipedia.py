@@ -1,6 +1,10 @@
 """
 Random article from Wikipedia (https://wikipedia.org)
 
+TODO: Add some famous lists like:
+
+ - https://en.wikipedia.org/wiki/List_of_conspiracy_theories
+
 Quota: 1%
 """
 
