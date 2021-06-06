@@ -1,12 +1,12 @@
 """
-Random useless websites
+Random (somewhat useless) websites!
 
 Quota: 5%
 """
 
-from random import randrange
-
 from .base import Source
+
+from random import randrange
 
 
 db = '''
@@ -121,10 +121,15 @@ https://dadlaughbutton.com/
 https://www.bouncingdvdlogo.com/
 http://papertoilet.com/
 https://www.window-swap.com/Window
+https://asoftmurmur.com/
+https://www.ocearch.org/tracker/
+http://www.shadyurl.com/
+https://www.mapcrunch.com/
+https://random.earth/
 '''
 
 
-class UselessWebsite(Source):
+class RandomWebsite(Source):
 
     def __init__(self):
         self.queue = list(filter(lambda x: x, db.split("\n")))
